@@ -20,7 +20,7 @@ global.themeemoji = '⚙️'
 global.wm = "Raybot ke"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'https://whatsapp.com/channel/0029Vah8KHf5vKA6USXrS63D'
 
 //custom prefix
 global.prefa = process.env.PREFIX || ".",
